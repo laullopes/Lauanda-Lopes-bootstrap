@@ -1,0 +1,36 @@
+/* egen css */ 
+.card{
+    display: flex;
+    justify-content: center;
+    background-color: lightyellow;
+}
+
+.container{
+    background-color: lightsalmon;
+}
+
+.button-btn{ 
+    background-color: maroon;
+}
+
+.btn-link{ 
+    background-color: mediumturquoise;
+}
+
+.container-fluid{
+    background-color:lightgoldenrodyellow;
+}
+
+.container-sm{
+    background-color: lightskyblue;"
+}
+
+h1{
+    background-color: mediumvioletred;
+}
+
+.row-md{ }
+
+.textarea{
+    background-color: mistyrose;
+}
