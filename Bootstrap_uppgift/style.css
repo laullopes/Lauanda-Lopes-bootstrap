@@ -1,13 +1,14 @@
 .navbar{
-    background-color: aquamarine;
+    background-color: black;
     font-size: 15px;
-    color:black;
-    text-decoration: none;
+    color: white;  
+    
 }
 
 .a{
     text-decoration: none;
     color:black;
+  
 }
 
 .lauanda-h1{
@@ -19,4 +20,11 @@
 
 .container{
     border-style: solid none none;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.lauanda-body{ 
+    background-color: thistle;
+
 }
