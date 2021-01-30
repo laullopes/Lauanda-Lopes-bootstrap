@@ -29,3 +29,9 @@
 
 }
 
+.container-lauanda{
+    display: flex;
+    justify-content: center;
+    margin-left:135px;
+
+}
